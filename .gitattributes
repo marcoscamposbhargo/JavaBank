@@ -1,5 +1,3 @@
-# Metadados do workspace do Eclipse e artefatos: nao sao codigo-fonte
-.plugins/** linguist-generated
-.mylyn/** linguist-generated
-*.zip linguist-generated
-*.log linguist-generated
+# Pagina de demonstracao da API: nao e codigo-fonte do projeto
+javabank/javabank/src/main/resources/static/** linguist-detectable=false
+javabank.zip linguist-generated
