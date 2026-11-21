@@ -1,0 +1,5 @@
+# Metadados do workspace do Eclipse e artefatos: nao sao codigo-fonte
+.plugins/** linguist-generated
+.mylyn/** linguist-generated
+*.zip linguist-generated
+*.log linguist-generated
